@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+.mensagem-sucesso {
+    background-color: green;
+    color: white;
+    display: none; /* Inicialmente, a mensagem está oculta */
+}
+.mensagem-erro {
+    background-color: red;
+    color: white;
+    display: none; /* Inicialmente, a mensagem está oculta */
+}
